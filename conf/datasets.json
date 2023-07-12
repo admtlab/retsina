@@ -1,0 +1,332 @@
+{
+  "datasetNumbers": [
+    "9",
+    "10",
+    "11",
+    "13",
+    "0"
+  ],
+  "ujiMonths": {
+    "01": {
+      "trainingFiles": [
+        "trn01",
+        "trn02",
+        "trn03",
+        "trn04",
+        "trn05",
+        "trn06",
+        "trn07",
+        "trn08",
+        "trn09",
+        "trn10",
+        "trn11",
+        "trn12",
+        "trn13",
+        "trn14",
+        "trn15"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "02": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "03": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "04": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "05": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "06": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "07": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "08": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "09": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "10": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "11": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "12": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "13": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "14": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "15": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "16": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "17": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "18": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "19": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "20": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "21": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "22": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "23": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "24": {
+      "trainingFiles": [
+        "trn01"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05"
+      ]
+    },
+    "25": {
+      "trainingFiles": [
+        "trn01",
+        "trn02"
+      ],
+      "testingFiles": [
+        "tst01",
+        "tst02",
+        "tst03",
+        "tst04",
+        "tst05",
+        "tst06",
+        "tst07",
+        "tst08",
+        "tst08",
+        "tst08",
+        "tst10"
+      ]
+    }
+  }
+}
