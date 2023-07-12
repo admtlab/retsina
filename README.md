@@ -112,6 +112,6 @@ documentation.
 
 - [1] Z. Van Hyfte and A. Zakhor, "Immediate proximity detection using wi-fi-enabled smartphones," in *International
   Conference on Indoor Positioning and Indoor Navigation (IPIN)*, 2021, pp. 1-8.
-- [2] Brian T. Nixon, Anna Baskin, Panos K. Chrysanthis, Christos Laoudias, and Constantinos Costa, "RETSINA:
+- [2] Anna Baskin, Brian T. Nixon, Panos K. Chrysanthis, Christos Laoudias, and Constantinos Costa, "RETSINA:
   Reproducibility and Experimentation Testbed for Signal-Strength Indoor Near Analysis," in *International Conference on
   Indoor Positioning and Indoor Navigation (IPIN)*, 2023, pp. ?-?. 
